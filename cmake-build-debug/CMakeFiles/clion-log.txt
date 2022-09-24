@@ -1,0 +1,4 @@
+找不到 MinGW: C:\Qt\Tools\mingw810_64 配置 禁用配置文件
+
+无法获取编译器信息:
+	Cannot run program "C:\Qt\Tools\mingw810_64\bin\g++.exe" (in directory "D:\CLionProj\Chess_Server\cmake-build-debug"): CreateProcess error=2, 系统找不到指定的文件。
